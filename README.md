@@ -20,7 +20,7 @@ Thank you!
 citation
 { 
 
-  title={In Plain Sight: Media Bias Through the Lens of Factual Reporting},
+  title={BeyondGender: A Multifaceted Bilingual Dataset for Practical Sexism Detection},
   
   author={Luo, Xuan and Yang, Li and Zhang, Han and Tu, Geng and Wang, Qianlong and Ding, Keyang and Fan, Chuang and Li, Jing and Xu, Ruifeng},
   
