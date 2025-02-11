@@ -22,7 +22,7 @@ citation
 
   title={In Plain Sight: Media Bias Through the Lens of Factual Reporting},
   
-  author={Luo, Xuan and Yang, Li and Zhang, Han and Tu, Geng and Wang, Qianlong and Ding, Keyang and Fan, Chuang, and Li, Jing and Xu, Ruifeng},
+  author={Luo, Xuan and Yang, Li and Zhang, Han and Tu, Geng and Wang, Qianlong and Ding, Keyang and Fan, Chuang and Li, Jing and Xu, Ruifeng},
   
   booktitle={Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)},
   
