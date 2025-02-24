@@ -1,5 +1,6 @@
 # BeyondGender
-Sexism Detection Dataset
+
+BeyondGender : A Multifaceted Bilingual Dataset for Practical Sexism Detection
 
 Thank you for your interest in our dataset! This README file provides essential information about the dataset and how to access it.
 
