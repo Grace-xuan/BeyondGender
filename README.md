@@ -6,8 +6,8 @@ Thank you for your interest in our dataset! This README file provides essential 
 
 Dataset Description:
 Our dataset comprises around 21K data in English and Chinese. It is intended for sexism detection for both genders, men and women.
-A demo of our dataset has been uploaded to the "data" folder.
-We are committed to making the entire dataset available on GitHub upon acceptance of our paper.
+
+
 
 
 
